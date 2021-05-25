@@ -1,7 +1,5 @@
 # Fashion MNIST with Keras and Deep Learning
 
-In this tutorial, you will learn how to train a simple Convolutional Neural Network (CNN) with Keras on the Fashion MNIST dataset, enabling you to classify fashion images and categories.
-
 The Fashion MNIST dataset is meant to be a (slightly more challenging) drop-in replacement for the (less challenging) MNIST dataset.
 
 Similar to the MNIST digit dataset, the Fashion MNIST dataset includes:
